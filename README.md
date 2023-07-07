@@ -13,14 +13,10 @@
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongsunwoo&layout=compact"><br><br>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /><br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongsunwoo&layout=compact"><br><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Jeongsunwoo&show_icons=true">
 </div>
