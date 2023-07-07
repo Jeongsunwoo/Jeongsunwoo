@@ -1,5 +1,7 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20Sunwoo%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20Sunwoo%20Github!&fontSize=90" />
+	<h4>I'm a frontend developer🧑🏻‍💻</h4>
+	<h4>nice to meet you!</h4><br>
 </div>
 <div align=center>
 	<h3>🛠️ Tech Stack 🛠️</h3>
