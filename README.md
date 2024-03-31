@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20Sunwoo%20Github!&fontSize=90" />
-	<h4>I'm a firmware developer🧑🏻‍💻</h4>
+	<h4>firmware developer🧑🏻‍💻</h4>
 </div>
 <div align=center>
 	<h3>🛠️ Tech Stack 🛠️</h3>
